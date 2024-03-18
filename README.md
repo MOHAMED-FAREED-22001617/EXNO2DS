@@ -34,7 +34,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 ```
-dt=pd.read_csv("/content/titanic_dataset.csv")
+dt=pd.read_csv("titanic_dataset.csv")
 dt
 ```
 
